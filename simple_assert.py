@@ -2,7 +2,7 @@
 a 'try/except' error handling structure with the 'assert' functoin.
 """
 
-def is_add(a, b, result):
+def simple_assert(a, b, result):
     try:
         assert a + b == result
     except AssertionError:
