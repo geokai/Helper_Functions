@@ -1,6 +1,6 @@
 ## A collection of Python helper functions
 
-###pad_num():
+### pad_num():
 
 This helper function takes a number (integer or float) and pads out with
 zeros to the left if the digit count is less than the 'pad' number specified.
